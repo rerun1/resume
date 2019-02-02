@@ -16,7 +16,7 @@ A simple html page with css stylesheets and unique fonts. First round of current
 ## Current Screenshot for Reference
 <br>
 
-![alt text](https://raw.githubusercontent.com/rerun1/resume/master/img/screenShot2-1-19.png)
+![alt text](https://raw.githubusercontent.com/rerun1/resume/master/img/screenShot2-1-2019.png)
 <br>
 <br>
 
